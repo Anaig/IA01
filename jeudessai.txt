@@ -1,0 +1,44 @@
+
+Bienvenue! Nous allons vous guider dans le choix de votre tenue.
+
+"Quel est votre genre sexuel: Homme/Femme?"FEMME
+"Quel est votre age?"56
+"Quelle est votre taille en metre?"1.87
+"Quel est votre poids?"66
+"Quelle est votre taille de bonnet? 1.<D 2.>=D"1
+"Preferez-vous porter: Jupe/Pantalon?"PANTALON
+"Quelle est votre couleur de peau? Blanche/Mate/Noire"MATE
+"Avez-vous un tatouage?"OUI
+"Pour quelle occasion voulez-vous vous habiller? Tres_formelle/Formelle/Informelle"TRES_FORMELLE
+"Quelle est la couleur de vos yeux? Bleue/Verte/Marron"BLEUE
+"La temperature actuelle est-elle plutot: Hivernale/Estivale?"HIVERNALE
+
+
+Voici la compostition de la tenue que nous vous conseillons:
+
+
+"Pour une occasion formelle on privilegie les couleurs sobres comme le blanc, le noir et le beige. Evitez le total look noir en mettant des accessoires ou des chaussures colores" 
+"En entretien par exemple il faut miser sur un maquillage naturelle: le teint est tres important. Le rouge a levre vulgarise" 
+(ROUGEALEVRE NON) 
+"Le mascara noir fait ressortir les yeux bleus" 
+(MASCARA NOIR) 
+"On evite un modele de sac trop petit qui fait soiree" 
+(SAC MOYEN) 
+(CHAUSSURE TYPE BALLERINE) 
+(VESTE TAILLEUR) 
+"Le chemisier blanche est intemporel, c'est une valeur sure" 
+(HAUT TYPE CHEMISIER) 
+"En situation formelle un grand decollete serait deplace. On privilegera les cols ronds, carres et benitiers." 
+(DECOLLETE ROND) 
+"Un haut cintre permet de mettre en valeur les hanches pour les femmes en V ou I" 
+(HAUT FORME CINTRE) 
+(BAS FORME DROIT) 
+(BAS GENRE TAILLEUR) 
+(BAS TYPE PANTALON) 
+"A partir d'un certain age couvrez vos bras avec un chale ou des manches 3/4" 
+(HAUT MANCHE LONGUE) 
+"Les talons hauts vont trop elancer la silhouette et renforcer le cote longiligne." 
+(TALON NON) 
+"Ne laissez pas vos tatouages apparents pour une occasion formelle" 
+(VESTE OUI) 
+NIL
