@@ -1,2 +1,2 @@
 # IA01
-Artificial intelligence
+Artificial intelligence : Creation of an expert system
