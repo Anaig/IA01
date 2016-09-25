@@ -7,3 +7,5 @@ We created knowledge and rule bases, that could be strengthen if the project was
 The system communicates with the user asking a number of question in order to know the context. It then gives a set of advice with the detailed recommended outfit. 
 
 The system can use two different strategies : a depth-first forward chaining or a breadth-first forward chaining.
+
+By Morgane Pinault & Anaig Marechal
